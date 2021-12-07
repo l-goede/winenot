@@ -138,7 +138,7 @@ The url to your repository and to your deployed project
 
 fern1991p/winenot
 
-[Deploy Link](http://heroku.com)
+[http://winenotapp.herokuapp.com/]
 
 ### Slides
 
